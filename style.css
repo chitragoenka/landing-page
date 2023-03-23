@@ -1,0 +1,181 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #1F2937;
+    height: 300px;
+    
+    
+    }
+    .header {
+        font-size: 24px;
+        color: #F9FAF8;
+       padding-left: 100px;
+        padding-top: 10px;
+    }
+    .link3 {
+        font-size: 18px;
+        color: #E5E7EB;
+        padding-top: 10px;
+        padding-left: 60px;
+    }
+    .link1 {
+        font-size: 18px;
+        color: #E5E7EB;
+        padding-top: 10px;
+        padding-left: 500px;
+    }
+    .link2 {
+        font-size: 18px;
+        color: #E5E7EB;
+        padding-top: 10px;
+        padding-left: 60px;
+    }
+    .hero {
+        font-size: 48px;
+        font-weight: 800;
+        color: #F9FAF8;
+    }
+    .description {
+        color: #E5E7EB;
+        font-size: 18px;
+    }
+    .button {
+        color: #F9FAF8;
+        background-color: #3882F6;
+        border-style: solid ;
+        border-radius: 5px;
+        border-color: #3882F6;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .main {
+padding-left: 100px;
+    }
+    .mainimg {
+        /*display: flex;
+        justify-content: flex-end;*/
+        padding-left: 50px;
+    }
+    .headertext {
+        font-size: 36px;
+        font-weight: 800;
+        color: #1F2937;
+        text-align: center;
+    }
+    .section1 {
+        display: flex;
+        justify-content: space-between;
+        padding-left: 250px;
+        padding-right: 250px;
+        }
+        .clutchtext {
+            display: flex;
+            flex-wrap: wrap;
+            word-wrap: break-word;
+            width: 20%;
+        }
+        .handbagtext {
+            display: flex;
+            flex-wrap: wrap;
+            word-wrap: break-word;
+            width: 20%;
+        }
+        .totetext {
+            display: flex;
+            flex-wrap: wrap;
+            word-wrap: break-word;
+            width: 20%;
+        }
+        .bigtext {
+            display: flex;
+            flex-wrap: wrap;
+            word-wrap: break-word;
+            width: 20%;
+        }
+        .section2 {
+            
+        }
+        .quotebox {
+            background-color: #E5E7EB;
+            vertical-align: middle;
+            padding-top: 20px;
+        }
+        .quote {
+           
+           font-weight: light;
+           padding: 30px 100px;
+           text-align: center;
+            background-color: #E5E7EB;
+            color: #1F2937;
+            font-style: italic;
+            font-size: 36px;
+        }
+        .quoteauthor {
+           
+            font-weight: bold;
+            text-align: right;
+             background-color: #E5E7EB;
+             color: #1F2937;
+             font-size: 24px;
+             padding-bottom: 100px;
+             padding-right: 200px;
+        }
+        .section3 {
+            background-color: #3882F6;
+            margin-left: 100px;
+            margin-right: 100px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding-top: 30px;
+            padding-bottom: 30px;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #1F2937;
+        }
+        footer p {
+            color: white;
+            text-align: center;
+            font-size: small;
+        }
+        .button2 {
+            color: #F9FAF8;
+        background-color: #3882F6;
+        border-style: solid ;
+        border-radius: 5px;
+        border-color: white;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+        .clutch {
+            border: solid;
+            border-color: #3882F6;;
+            border-width: 1px;
+            border-radius: 10px;
+        }
+        .handbag {
+            border: solid;
+            border-color: #3882F6;;
+            border-width: 2px;
+            border-radius: 10px;
+        }
+        .tote {
+            border: solid;
+            border-color: #3882F6;;
+            border-width: 2px;
+            border-radius: 10px;
+        }
+        .big {
+            border: solid;
+            border-color: #3882F6;
+            border-width: 2px;
+            border-radius: 10px;
+        }
+        .footertext {
+            color: white;
+            font-weight: bold;
+        }
